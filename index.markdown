@@ -44,28 +44,22 @@ I obtained my bachelors in Electrical Engineering and Computer Science from MIT 
 
 I'm also a member of the [MIT MLSys Discussion Group](http://www.mlsys.ai/), [MIT Lion Dance](https://scripts.mit.edu/~lion-dance/), [MIT Gymnastics](http://gymnastics.mit.edu/), and [MIT Asian Dance Team](http://adt.mit.edu/).
 
-<br>
 # Publications
 **[Striped Attention: Faster Ring Attention for Causal Transformers](https://arxiv.org/pdf/2311.09431.pdf)**<br/>
 William Brandon, Aniruddha Nrusimha, **Kevin Qian**, Zachary Ankner, Tian Jin, Zhiye Song, Jonathan Ragan-Kelley<br/>
 *Pre-print*
 
-**[Heisenberg-scaling measurement protocol for analytic functions with quantum sensor networks](Heisenberg-scaling measurement protocol for analytic functions with quantum sensor networks)**<br/> <b>Kevin Qian</b>, Zachary Eldredge, Wenchao Ge, Guido Pagano, Christopher Monroe, James V. Porto, Alexey V. Gorshkov<br/>
-Physical Review A 2019
+**[Heisenberg-scaling measurement protocol for analytic functions with quantum sensor networks](Heisenberg-scaling measurement protocol for analytic functions with quantum sensor networks)**<br/> 
+**Kevin Qian**, Zachary Eldredge, Wenchao Ge, Guido Pagano, Christopher Monroe, James V. Porto, Alexey V. Gorshkov<br/>
+*Physical Review A 2019*
 
-<br>
 # Patents
-<div>
-  <a href="https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11562049"><b>Heisenberg Scaler</b></a>
-  <br>
-  Alexey V. Gorshkov, James V. Porto, <b> Kevin Qian</b>, Zachary Eldredge, Wenchao Ge, Guido Pagano, Christopher Monroe
-  <br>
-  US Patent 11,562,049, issued January 24, 2023
-  <br>
-</div>
+<a href="https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11562049"><b>Heisenberg Scaler</b></a>
+<br/>
+Alexey V. Gorshkov, James V. Porto, <b> Kevin Qian</b>, Zachary Eldredge, Wenchao Ge, Guido Pagano, Christopher Monroe
+<br/>
+*US Patent 11,562,049, issued January 24, 2023*
 
-<br>
 # Teaching
-**6.4400: Computer Graphics**<br>
-Teaching Assistant<br>
-Fall 2023, MIT
+**MIT 6.4400: Computer Graphics**<br>
+Teaching Assistant, Fall 2023
